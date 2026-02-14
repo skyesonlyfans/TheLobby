@@ -36,7 +36,7 @@ export default function AuthPage() {
         <Card className="glow">
           <H1>Welcome to The Lobby <span className="text-white/60">- Skye</span></H1>
           <p className="text-white/70 mt-2 text-sm leading-relaxed">
-            Jump in, link up, and keep it moving.
+            Free for everyone, always.
           </p>
 
           <div className="mt-5 flex gap-2">
