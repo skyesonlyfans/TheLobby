@@ -104,7 +104,7 @@ export default function SettingsPage() {
             <ToolLink title="Webhook.site" href="https://webhook.site/" />
             <ToolLink title="PublicWWW" href="https://publicwww.com/" />
           </div>
-          <div className="text-[11px] text-white/50 mt-3">Swap or expand links anytime.</div>
+          <div className="text-[11px] text-white/50 mt-3">Credits to these public sources!</div>
         </Card>
       </div>
     </div>
