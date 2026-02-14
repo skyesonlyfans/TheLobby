@@ -231,7 +231,7 @@ export default function LobbyPage() {
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-6">
-      <Topbar subtitle={connected ? `Room: ${roomCode}` : 'Connecting…'} />
+      <Topbar subtitle={connected ? `Room: ${roomCode}` : 'Welcome!'} />
 
       <div className="grid lg:grid-cols-12 gap-4">
         <Card className="lg:col-span-3">
